@@ -1,6 +1,6 @@
 verbosity=1
 bootlogo=false
-fdtfile=rockchip/rk3588-rock-5b.dtb
+fdtfile=rockchip/nano-rk3399.dtb
 rootdev=/dev/mmcblk0p2
 rootfstype=ext4
 rootflags=rw,errors=remount-ro
